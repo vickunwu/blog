@@ -1,4 +1,4 @@
-baseURL = "https://vickunwu.github.io/blog"
+baseURL = "https://vickunwu.github.io/blog/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -33,7 +33,7 @@ ignoreErrors = ["error-remote-getjson"]
         pre = ""
         post = ""
         name = "所有文章"
-        url = "/posts/"
+        url = "posts/"
         title = ""
         weight = 1
       [[languages.zh-cn.menu.main]]
@@ -41,7 +41,7 @@ ignoreErrors = ["error-remote-getjson"]
         pre = ""
         post = ""
         name = "标签"
-        url = "/tags/"
+        url = "tags/"
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
@@ -49,7 +49,7 @@ ignoreErrors = ["error-remote-getjson"]
         pre = ""
         post = ""
         name = "分类"
-        url = "/categories/"
+        url = "categories/"
         title = ""
         weight = 3
       [[languages.zh-cn.menu.main]]
