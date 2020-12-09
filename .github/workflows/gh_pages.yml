@@ -17,8 +17,7 @@ jobs:
           extended: true
 
       - name: Build Hugo
-        run: |
-          hugo
+        run: HUGO_ENV=production hugo --gc --minify
 
       - name: Deploy Hugo to gh-pages
         uses: peaceiris/actions-gh-pages@v3
