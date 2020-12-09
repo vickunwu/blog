@@ -1,4 +1,4 @@
-baseURL = "https://vickunwu.github.io/"
+baseURL = "https://vickunwu.github.io/blog/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
