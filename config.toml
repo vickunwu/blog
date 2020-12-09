@@ -11,9 +11,11 @@ title = "Blog My Life"
 
 enableRobotsTXT = true
 
-enableGitInfo = true
+enableGitInfo = false
 
 enableEmoji = true
+
+ignoreErrors = ["error-remote-getjson"]
 
 [languages]
   [languages.zh-cn]
@@ -328,9 +330,9 @@ enableEmoji = true
     startLevel = 1
     endLevel = 6
 [author]
-  name = "zhaoqiang"
-  email = ""
-  link = ""
+  name = "vickunwu"
+  email = "vickunwu@gmail.com"
+  link = "https://vickunwu.github.io/blog/"
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
