@@ -1,0 +1,12 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://vickunwu.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://vickunwu.github.io/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
