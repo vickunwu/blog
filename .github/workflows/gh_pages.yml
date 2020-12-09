@@ -18,7 +18,7 @@ jobs:
 
       - name: Build Hugo
         run: |
-          hugo
+          hugo -t LoveIt
 
       - name: Deploy Hugo to gh-pages
         uses: peaceiris/actions-gh-pages@v3
