@@ -120,7 +120,7 @@ ignoreErrors = ["error-remote-getjson"]
     mobileMode = "auto"
     [params.header.title]
       logo = ""
-      name = "vickunwu's blog"
+      name = "昆吾菌"
       pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
       post = ""
       typeit = false
@@ -270,7 +270,7 @@ ignoreErrors = ["error-remote-getjson"]
     [params.page.seo]
       images = []
       [params.page.seo.publisher]
-        name = "vickunwu"
+        name = " vickunwu "
         logoUrl = "images/avatar.png"
   # TypeIt 配置
   [params.typeit]
